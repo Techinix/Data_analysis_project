@@ -1,4 +1,4 @@
-# data_analysis_project
+# Data_analysis_project
 This is a git repo for a project i did as part of an academic module named Data Analysis
 In this project we were tasked to execute a study of different stocks that are part of the S&P 500 index, the work is divided in 6 main parts :
 * **Importation**
